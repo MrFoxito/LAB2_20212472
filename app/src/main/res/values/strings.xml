@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Lab Inventario</string>
+    <string name="titulo_bienvenida">¡Bienvenido a mi\nInventario móvil!</string>
+    <string name="mi_codigo">20212472</string>
+    <string name="mi_nombre">Miguel Angel Alvizuri Yucra</string>
+    <string name="codigo_pucp_hint">Código PUCP</string>
+    <string name="ingresar">Ingresar</string>
+
+    <string name="codigo_hint">Código</string>
+    <string name="nombre_equipo_hint">Nombre del equipo</string>
+    <string name="tipo_equipo_label">Tipo de equipo</string>
+    <string name="estado_label">Estado</string>
+    <string name="observaciones_hint">Observaciones</string>
+    <string name="guardar">Guardar</string>
+
+    <string name="estado_operativo">Operativo</string>
+    <string name="estado_mantenimiento">En mantenimiento</string>
+    <string name="estado_fuera_servicio">Fuera de servicio</string>
+
+    <string name="no_hay_registros">No hay equipos registrados</string>
+
+    <string-array name="tipos_equipo">
+        <item>Multímetro</item>
+        <item>OTDR</item>
+        <item>Medidor de potencia</item>
+        <item>Analizador de espectro</item>
+        <item>Pinza amperimétrica</item>
+    </string-array>
+
+    <string-array name="filtro_tipos_equipo">
+        <item>Todos</item>
+        <item>Multímetro</item>
+        <item>OTDR</item>
+        <item>Medidor de potencia</item>
+        <item>Analizador de espectro</item>
+        <item>Pinza amperimétrica</item>
+    </string-array>
+
+    <string-array name="filtro_estados">
+        <item>Todos</item>
+        <item>Operativo</item>
+        <item>En mantenimiento</item>
+        <item>Fuera de servicio</item>
+    </string-array>
+</resources>
